@@ -1,0 +1,18 @@
+
+-----Database Name: internetbanking_db-----
+
+
+----Admin Login Details----
+
+Email	: admin@mail.com
+Password: admin123
+
+
+---Staff Login Details---
+
+Email	: staff@mail.com
+Password: staff12
+
+----client 1 ----
+Email : fivid@gmail.com
+Password : 1234
